@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/karan-cd/terraform-hcloud-certificate/compare/v1.0.0...v1.0.1) (2026-06-30)
+
+
+### Bug Fixes
+
+* updated the ci yml ([fd7f185](https://github.com/karan-cd/terraform-hcloud-certificate/commit/fd7f1854420cf4b1d5d5ab6d4aaf922694808e1d))
+
 # 1.0.0 (2026-06-30)
 
 
